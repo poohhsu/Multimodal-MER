@@ -1,5 +1,5 @@
 # DLMAG Final - Multimodal Music Emotion Recognition
-This is the final project of Deep Learning for Music Analysis and Generation, which is a multimodal approach that integrates audio, lyric, and symbolic features for music emotion recognition.
+This is the final project of Deep Learning for Music Analysis and Generation, which is a multimodal approach that integrates audio, lyric, and symbolic features for music emotion recognition. All pre-trained models can be found [here](https://drive.google.com/drive/folders/1MBRr8zsH-w2g1vquxWzvSdGdC_1UDC-Q?usp=sharing).
 
 
 ## Audio Feature
